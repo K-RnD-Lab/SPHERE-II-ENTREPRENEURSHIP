@@ -23,6 +23,7 @@ Applied research lane for decision-making, venture design, market sensemaking, e
 ## Starter studies in this repo
 
 - [`E1-R1a Lab-to-Market Opportunity Map`](E1%20-%20Venture,%20Product%20%26%20Opportunity%20Systems/E1-R1%20-%20Opportunity%20Mapping%20%26%20Problem%20Framing/R1a-lab-to-market-opportunity-map/README.md)
+- [`E2-R1a Translational Audience Segments`](E2%20-%20Market,%20Audience%20%26%20Behavioral%20Intelligence/E2-R1%20-%20Audience%20Segmentation/R1a-translational-audience-segments/README.md)
 - [`E3-R1a Bio-AI Translation Landscape`](E3%20-%20Ecosystem,%20Partnerships%20%26%20External%20Signals/E3-R1%20-%20Ecosystem%20Mapping/R1a-bio-ai-translation-landscape/README.md)
 
 ## Boundary rule
