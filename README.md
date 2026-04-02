@@ -38,6 +38,17 @@ The first unified index across `SCIENCE`, `ENTREPRENEURSHIP`, and `TECHNOLOGY` n
 
 Use `SPHERE-II` when the core output is a decision model, market-facing interpretation, ecosystem view, or public case. Keep scientific claims in `SPHERE-I` and reusable tooling in `SPHERE-III`.
 
+## Primary Sphere And Hybrid Combos
+
+`SPHERE-II` stays the home sphere for entrepreneurship-facing work, but each study can also carry a hybrid combo label when it clearly bridges other layers:
+
+- `E` for pure venture or market work
+- `S+E` for science-informed opportunity framing
+- `E+T` for product, tooling, or operations work
+- `S+E+T` for public cases that connect domain research, decision logic, and implementation
+
+Hugging Face is treated as a delivery layer, not as a fourth sphere.
+
 ## Standard study structure
 
 - `README.md` — question, scope, and method

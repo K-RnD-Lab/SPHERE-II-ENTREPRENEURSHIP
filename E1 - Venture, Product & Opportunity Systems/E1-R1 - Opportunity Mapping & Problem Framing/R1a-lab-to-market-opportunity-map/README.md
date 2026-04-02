@@ -8,6 +8,19 @@ Which translational opportunity spaces are the most plausible first commercial o
 
 This starter study maps possible routes from research output to external use without claiming product-market fit.
 
+## Registry Metadata
+
+```yaml
+primary_sphere: entrepreneurship
+secondary_spheres:
+  - science
+combo: S+E
+artifact_type: venture_case
+delivery_layers:
+  - GitHub
+validation_stage: exploratory
+```
+
 ## Method
 
 1. Identify reusable assets coming from science and technology lanes.

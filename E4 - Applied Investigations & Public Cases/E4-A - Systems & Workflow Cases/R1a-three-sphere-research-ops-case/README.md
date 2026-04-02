@@ -8,6 +8,20 @@ How should K R&D Lab structure research, tooling, and public-facing artifacts ac
 
 This is a real public case about research operations and systems design across the three spheres.
 
+## Registry Metadata
+
+```yaml
+primary_sphere: entrepreneurship
+secondary_spheres:
+  - science
+  - technology
+combo: S+E+T
+artifact_type: public_case
+delivery_layers:
+  - GitHub
+validation_stage: active_case
+```
+
 ## Case focus
 
 - separating domain research from reusable tooling
