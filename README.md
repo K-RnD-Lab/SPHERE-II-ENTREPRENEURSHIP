@@ -32,6 +32,7 @@ Applied research lane for decision-making, venture design, market sensemaking, e
 The first unified index across `SCIENCE`, `ENTREPRENEURSHIP`, and `TECHNOLOGY` now lives in `SPHERE-III`:
 
 - [`T3-R1a Study Registry Dashboard Template`](https://github.com/K-RnD-Lab/SPHERE-III-TECHNOLOGY/tree/main/T3%20-%20Dashboards%2C%20Interfaces%20%26%20Open%20Infrastructure/T3-R1%20-%20Dashboard%20Templates%20%26%20Public%20Interfaces/R1a-study-registry-dashboard-template)
+- [`Live Study Registry Space`](https://huggingface.co/spaces/K-RnD-Lab/Study-Registry_04-2026)
 
 ## Boundary rule
 
