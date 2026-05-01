@@ -27,6 +27,13 @@ Applied research lane for decision-making, venture design, market sensemaking, e
 - [`E3-R1a Bio-AI Translation Landscape`](E3%20-%20Ecosystem,%20Partnerships%20%26%20External%20Signals/E3-R1%20-%20Ecosystem%20Mapping/R1a-bio-ai-translation-landscape/README.md)
 - [`E4-A-R1a Three-Sphere Research Ops Case`](E4%20-%20Applied%20Investigations%20%26%20Public%20Cases/E4-A%20-%20Systems%20%26%20Workflow%20Cases/R1a-three-sphere-research-ops-case/README.md)
 
+## Active execution docs
+
+- [`docs/README.md`](docs/README.md)
+- [`docs/core/E1_E4_RESEARCH_EXECUTION_INDEX.md`](docs/core/E1_E4_RESEARCH_EXECUTION_INDEX.md)
+- [`docs/core/ENTREPRENEURSHIP_STRUCTURE_APPROVAL_GATE.md`](docs/core/ENTREPRENEURSHIP_STRUCTURE_APPROVAL_GATE.md)
+- [`docs/core/GPT_ASSISTED_ENTREPRENEURSHIP_WORKFLOW.md`](docs/core/GPT_ASSISTED_ENTREPRENEURSHIP_WORKFLOW.md)
+
 ## Cross-sphere registry
 
 The first unified index across `SCIENCE`, `ENTREPRENEURSHIP`, and `TECHNOLOGY` now lives in `SPHERE-III`:
