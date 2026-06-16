@@ -29,10 +29,15 @@ Status: structurally active.
 Existing starter study:
 
 - `E1-R1a` Lab-to-Market Opportunity Map
+- `E1-R2a` Project Roast & Venture Stress-Test Methodology
+- `E1-R2b` ISR Public Project Roast Draft
+- `E1-R2c` Project Resonance Review Methodology
+- `E1-R2d` ISR Project Resonance Review Draft
 
 Best next execution route:
 
 - expand `E1-R1a` into a fuller opportunity-map report with assumptions, evidence needs, and next validation steps.
+- keep roasts and resonance reviews separate: roast = critique plus recommendations; resonance review = impression, associations, belief, and perspective verdict.
 
 ### E2 Market, Audience & Behavioral Intelligence
 

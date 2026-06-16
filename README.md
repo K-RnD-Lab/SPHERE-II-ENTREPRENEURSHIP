@@ -25,6 +25,8 @@ Applied research lane for decision-making, venture design, market sensemaking, e
 - [`E1-R1a Lab-to-Market Opportunity Map`](E1%20-%20Venture,%20Product%20%26%20Opportunity%20Systems/E1-R1%20-%20Opportunity%20Mapping%20%26%20Problem%20Framing/R1a-lab-to-market-opportunity-map/README.md)
 - [`E1-R2a Project Roast & Venture Stress-Test Methodology`](E1%20-%20Venture,%20Product%20%26%20Opportunity%20Systems/E1-R2%20-%20Product%20%26%20Venture%20Validation/R2a-project-roast-methodology/README.md)
 - [`E1-R2b ISR Public Project Roast Draft`](E1%20-%20Venture,%20Product%20%26%20Opportunity%20Systems/E1-R2%20-%20Product%20%26%20Venture%20Validation/R2b-isr-public-project-roast-draft/README.md)
+- [`E1-R2c Project Resonance Review Methodology`](E1%20-%20Venture,%20Product%20%26%20Opportunity%20Systems/E1-R2%20-%20Product%20%26%20Venture%20Validation/R2c-project-resonance-review-methodology/README.md)
+- [`E1-R2d ISR Project Resonance Review Draft`](E1%20-%20Venture,%20Product%20%26%20Opportunity%20Systems/E1-R2%20-%20Product%20%26%20Venture%20Validation/R2d-isr-project-resonance-review-draft/README.md)
 - [`E2-R1a Translational Audience Segments`](E2%20-%20Market,%20Audience%20%26%20Behavioral%20Intelligence/E2-R1%20-%20Audience%20Segmentation/R1a-translational-audience-segments/README.md)
 - [`E3-R1a Bio-AI Translation Landscape`](E3%20-%20Ecosystem,%20Partnerships%20%26%20External%20Signals/E3-R1%20-%20Ecosystem%20Mapping/R1a-bio-ai-translation-landscape/README.md)
 - [`E4-A-R1a Three-Sphere Research Ops Case`](E4%20-%20Applied%20Investigations%20%26%20Public%20Cases/E4-A%20-%20Systems%20%26%20Workflow%20Cases/R1a-three-sphere-research-ops-case/README.md)

@@ -43,6 +43,17 @@ It is a practical diagnostic that asks:
 - What would make the project easier to adopt, fund, pilot, or trust?
 - What social or ecosystem effect could the project create if it works?
 
+## Boundary from a resonance review
+
+This methodology is for critique plus recommendations.
+
+If the goal is to capture personal impressions, associations, taste, discomfort, belief, or "do I see a future here?" without producing an action plan, use `R2c Project Resonance Review Methodology` instead.
+
+In short:
+
+- `project roast` = diagnostic critique plus recommendations
+- `resonance review` = argued impression plus perspective verdict
+
 ## Core lenses
 
 | Lens | Main question | Typical output |
