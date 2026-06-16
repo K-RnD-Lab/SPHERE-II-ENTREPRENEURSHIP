@@ -1,4 +1,4 @@
-# R2d ISR Project Resonance Review Draft
+# R3a ISR Project Resonance Review Draft
 
 ## Status
 
@@ -13,7 +13,7 @@ It is separate from the ISR project roast. The roast should diagnose blockers an
 - Project: ISR - Index of Social Responsibility
 - Public site: https://isr-vote.com/
 - Review type: project resonance review
-- Method: `R2c Project Resonance Review Methodology`
+- Method: `R3 Project Resonance Review Methodology`
 
 ## Why this case belongs in E1-R2
 

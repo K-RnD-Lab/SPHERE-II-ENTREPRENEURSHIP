@@ -31,8 +31,8 @@ Existing starter study:
 - `E1-R1a` Lab-to-Market Opportunity Map
 - `E1-R2a` Project Roast & Venture Stress-Test Methodology
 - `E1-R2b` ISR Public Project Roast Draft
-- `E1-R2c` Project Resonance Review Methodology
-- `E1-R2d` ISR Project Resonance Review Draft
+- `E1-R3` Project Resonance Review Methodology
+- `E1-R3a` ISR Project Resonance Review Draft
 
 Best next execution route:
 

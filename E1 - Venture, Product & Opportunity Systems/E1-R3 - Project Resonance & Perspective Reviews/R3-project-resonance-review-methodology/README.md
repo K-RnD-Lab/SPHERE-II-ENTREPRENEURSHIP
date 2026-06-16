@@ -1,4 +1,4 @@
-# R2c Project Resonance Review Methodology
+# R3 Project Resonance Review Methodology
 
 ## Question
 

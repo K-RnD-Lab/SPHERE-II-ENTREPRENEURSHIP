@@ -8,11 +8,11 @@ How can K R&D Lab review early-stage projects in a way that is sharp, useful, et
 
 This is the core methodology for structured project roasts.
 
-Individual roasts should be treated as lettered cases under this research line, for example:
+Individual roasts should be treated as case artifacts under this research line, for example:
 
-- `R2b` public project roast case
-- `R2c` founder-facing landing-page roast
-- `R2d` social-impact and adoption-risk roast
+- public project roast case
+- founder-facing landing-page roast
+- social-impact and adoption-risk roast
 
 ## Registry Metadata
 
@@ -47,7 +47,7 @@ It is a practical diagnostic that asks:
 
 This methodology is for critique plus recommendations.
 
-If the goal is to capture personal impressions, associations, taste, discomfort, belief, or "do I see a future here?" without producing an action plan, use `R2c Project Resonance Review Methodology` instead.
+If the goal is to capture personal impressions, associations, taste, discomfort, belief, or "do I see a future here?" without producing an action plan, use `R3 Project Resonance Review Methodology` instead.
 
 In short:
 
